@@ -22,6 +22,11 @@ url: >-
   https://raw.githubusercontent.com/api-evangelist/microservices-architecture/refs/heads/main/apis.yml
 tags:
   - Architecture
+  - Cloud-Native
+  - Distributed Systems
+  - Microservices
+tags_raw:
+  - Architecture
   - Cloud Native
   - Distributed Systems
   - Microservices
